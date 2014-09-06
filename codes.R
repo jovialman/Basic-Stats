@@ -1,2 +1,6 @@
 getwd()
-data()
+
+data <- mtcars
+
+names(data)
+dim(data)
